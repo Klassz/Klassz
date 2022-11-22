@@ -1,5 +1,8 @@
 ### Olá, Eu sou o Kayo Leanndro 👋🏼
 
+<div style = "display : inline_block"><br/>
+<img align ="center" alt ="Imagem code" src="https://wallpaperaccess.com/full/1338352.jpg" />
+
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oikayo_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayo-leanndro-33618a228/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KayoDevnoTT/with_replies)
