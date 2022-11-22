@@ -2,6 +2,7 @@
 
 <div style = "display : inline_block"><br/>
 <img align ="left" alt ="Imagem code" src="https://i.pinimg.com/736x/e9/bf/55/e9bf55f5df6b5c3717679a392f33bfdf.jpg" />
+  <div/>
 
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oikayo_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayo-leanndro-33618a228/)
