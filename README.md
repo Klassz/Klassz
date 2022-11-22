@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white")](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=kayoleanndro2@gmail.com)
 ##### ◉ Fale comigo : kayoleanndro2@gmail.com
 
-![Kayo Leanndro GitHub stats](https://github-readme-stats.vercel.app/api?username=Klassz&show_icons=true&theme=onedark)
+![Kayo Leanndro GitHub stats](https://github-readme-stats.vercel.app/api?username=Klassz&show_icons=true&theme=highcontrast)
 
 
 ### Minhas tecnologias :
